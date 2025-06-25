@@ -1,0 +1,8 @@
+
+Order ID: 1
+Customer ID: 1001
+VIP: No
+Total: $4.5
+Status: Pending
+Special Request: skip
+Placed at: 2024-11-26T00:50:45.798729100
